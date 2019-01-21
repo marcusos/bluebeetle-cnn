@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# CNN Big files
+dataset/*
+hittag.model
+lb.pickle
 .idea/
 
 # C extensions
